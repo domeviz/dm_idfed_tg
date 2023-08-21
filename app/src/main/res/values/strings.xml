@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticaUceIdFed</string>
+    <string name="clave">713437868013-l1aejj23ppv56pu39coa358nfokr40fb.apps.googleusercontent.com</string>
+    <string name="prefs_file">com.vizcarra.practicauceidfed.PREFERENCE_FILE_KEY</string>
+</resources>

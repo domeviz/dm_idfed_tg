@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "713437868013",
+    "project_id": "practica-uce-idfed",
+    "storage_bucket": "practica-uce-idfed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713437868013:android:6ebcd0bcb8a051960341e4",
+        "android_client_info": {
+          "package_name": "com.vizcarra.practicauceidfed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713437868013-l1aejj23ppv56pu39coa358nfokr40fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vizcarra.practicauceidfed",
+            "certificate_hash": "7227faa6fe9ccad92aa25e0979992906644118f3"
+          }
+        },
+        {
+          "client_id": "713437868013-dtpo8unrhqa4n9n628u42js3lpq7t9lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEBAZqsFIqAmE4ctCx7fEU-3WFc3SO0pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713437868013-dtpo8unrhqa4n9n628u42js3lpq7t9lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
